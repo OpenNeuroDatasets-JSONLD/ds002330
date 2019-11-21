@@ -6,7 +6,8 @@
         "Poppenk, J."
     ],
     "ReferencesAndLinks": [
-	"https://www.sciencedirect.com/science/article/pii/S1053811919308833"
+        "https://www.sciencedirect.com/science/article/pii/S1053811919308833"
     ],
-    "License": "CC-BY"
+    "License": "CC0",
+    "DatasetDOI": "10.18112/openneuro.ds002330.v1.0.0"
 }
