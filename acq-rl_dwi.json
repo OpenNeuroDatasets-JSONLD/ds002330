@@ -1,0 +1,8 @@
+{
+	"PhaseEncodingDirection": "i-",
+	"TotalReadoutTime": 0.000910,
+	"EchoTime": 0.1034,
+	"EffectiveEchoSpacing": 0.00077,
+	"FlipAngle": 77,
+	"RepetitionTime": 5.18
+}

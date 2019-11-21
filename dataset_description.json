@@ -1,0 +1,12 @@
+{
+    "Name": "Neuroimaging predictors of creativity in healthy adults",
+    "BIDSVersion": "1.2.0",
+    "Authors": [
+        "Sunavsky, A.",
+        "Poppenk, J."
+    ],
+    "ReferencesAndLinks": [
+	"https://www.sciencedirect.com/science/article/pii/S1053811919308833"
+    ],
+    "License": "CC-BY"
+}
