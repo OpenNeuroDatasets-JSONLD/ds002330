@@ -33,6 +33,6 @@
 	"PixelBandwidth": 240,
 	"ParallelAcquisitionTechnique": "GRAPPA",
 	"ParallelReductionFactorInPlane": 2,
-	"PhaseEncodingDirection": "j-",
+	"PhaseEncodingDirection": "j-"
 
 }	
